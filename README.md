@@ -146,8 +146,6 @@ week4-lab-submission/
 ├── calculator() # Debugged calculator program
 └── test_calculator() # Test all operations
 
-text
-
 ---
 
 ### How to Run the Program
@@ -161,17 +159,14 @@ text
 1. **Clone the repository:**
 git clone https://github.com/sanaullahcode/week4-lab-submission.git
 
-text
 
 2. **Navigate to directory:**
 cd week4-lab-submission
 
-text
 
 3. **Run the program:**
 python lab_complete.py
 
-text
 
 4. **Follow the menu:**
 - Select Lab 1 for Student Record System
@@ -249,8 +244,6 @@ Student ID: 42051
 University: FUUAST Islamabad
 Course: Software Construction and Development
 Semester: [5TH A Semester]
-
-text
 
 ---
 
