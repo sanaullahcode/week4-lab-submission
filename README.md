@@ -1,4 +1,4 @@
-# Week 4 Lab Submission
+
 ## Software Construction and Development
 
 ---
@@ -17,7 +17,7 @@
 
 ### Lab Overview
 
-This repository contains the complete lab work for Week 4 of Software Construction and Development course. All four labs have been completed and implemented in Python.
+This repository contains the complete lab work for Software Construction and Development course. All four labs have been completed and implemented in Python.
 
 ---
 
@@ -249,7 +249,7 @@ Semester: [5TH A Semester]
 
 ### Submission Details
 
-This lab submission is for Week 4 of Software Construction and Development course. All tasks have been completed according to the lab manual requirements.
+This lab submission is for Software Construction and Development course. All tasks have been completed according to the lab manual requirements.
 
 **Date of Submission:** March 14, 2026
 **Submitted to:** [MS SAMREEN]
